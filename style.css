@@ -1,0 +1,41 @@
+h4{
+    position: relative;
+    left: 75px;
+}
+.container
+{
+    border: 1px solid black;
+    padding: 10px 0px 10px 5px;
+    display: inline-flex;
+    flex-direction: row;
+    width: 397px;
+}
+
+.id1
+{
+    background-color: darkgray;
+    color: white;
+    border-right: 1px solid;
+    color: blue;
+    padding: 15px;
+    text-align: center;
+}
+
+.id2, .id3, .id4
+{
+    background-color: lightgray;
+    color: blue;
+    border-right: 1px solid;
+    padding: 15px;
+    text-align: center;
+}
+.id5{
+    background-color: lightgray;
+    color: blue;
+    padding: 15px;
+    text-align: center;
+}
+div .op
+{
+    min-width: 51px;
+}
